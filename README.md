@@ -1,11 +1,11 @@
 # Opensea Clone — White-Label NFT Marketplace Platform by Miracuves
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxnft.mimeld.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxsea.mimeld.com)
 [![Website](https://img.shields.io/badge/Solution_Page-miracuves.com-0b0b10?style=for-the-badge)](https://miracuves.com/opensea-clone/)
 [![Delivery](https://img.shields.io/badge/Go_Live-6_Working_Days-2ecc8f?style=for-the-badge)](https://miracuves.com/opensea-clone/#pricing)
 [![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/facts/)
 
-**MXNFT** is a production-ready, white-label Opensea clone: a complete NFT marketplace with lazy minting, multi-chain, and royalty engine — delivered with **100% source code ownership** in **6 working days**.
+**MXSea** is a production-ready, white-label Opensea clone: a complete NFT marketplace with lazy minting, multi-chain, and royalty engine — delivered with **100% source code ownership** in **6 working days**.
 
 > 🖼️ **See it running before you talk to anyone.** Live collector app, creator dashboard, and admin console — demo credentials are printed on the [solution page](https://miracuves.com/opensea-clone#demo). No sales call required.
 
@@ -16,7 +16,7 @@
 | Environment | URL | What you can test |
 |---|---|---|
 | 📱 Collector App | [mas.mimeld.com](https://mas.mimeld.com) | Browse, mint, buy, sell, bid, track portfolio |
-| 🌐 Web Marketplace | [mxnft.mimeld.com](https://mxnft.mimeld.com) | Full marketplace in the browser |
+| 🌐 Web Marketplace | [mxsea.mimeld.com](https://mxsea.mimeld.com) | Full marketplace in the browser |
 | 🎨 Creator Dashboard | [Solution page → Demo](https://miracuves.com/opensea-clone#demo) | Collections, drops, royalties, analytics |
 | 🛠️ Admin Console | [Solution page → Demo](https://miracuves.com/opensea-clone#demo) | Users, collections, royalties, disputes |
 
@@ -71,7 +71,7 @@ flowchart LR
 - ✅ 60 days post-launch support + 12 months of free updates
 - ✅ Documentation & handover
 
-**Pricing:** from **$6,699**, transparent on the [solution page](https://miracuves.com/opensea-clone/#pricing) — no "contact us for quote" games.
+**Pricing:** from **$6,999**, transparent on the [solution page](https://miracuves.com/opensea-clone/#pricing) — no "contact us for quote" games.
 
 ## 🆚 Why Not Build From Scratch?
 
@@ -106,10 +106,10 @@ This repository is a product overview. The full source code is delivered to clie
 TEMPLATE VARIABLE KEY — auto-generated from Netflix-Clone pattern
 ══════════════════════════════════════════════════
 {APP_NAME}        Opensea Clone
-{MX_NAME}         MXNFT
+{MX_NAME}         MXSea
 {CATEGORY}        NFT Marketplace Platform
-{DEMO_WEB}        mxnft.mimeld.com
-{PRICE}           $6,699
+{DEMO_WEB}        mxsea.mimeld.com
+{PRICE}           $6,999
 {SLUG}            opensea-clone
 {SOLUTION_URL}    https://miracuves.com/opensea-clone/
 {VERTICAL}        nft_marketplace
