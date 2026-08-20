@@ -2,10 +2,10 @@
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxsea.mimeld.com)
 [![Website](https://img.shields.io/badge/Solution_Page-miracuves.com-0b0b10?style=for-the-badge)](https://miracuves.com/opensea-clone/)
-[![Delivery](https://img.shields.io/badge/Go_Live-6_Working_Days-2ecc8f?style=for-the-badge)](https://miracuves.com/opensea-clone/#pricing)
-[![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/facts/)
+[![Delivery](https://img.shields.io/badge/Go_Live-6_Working_Days-2ecc8f?style=for-the-badge)](https://miracuves.com/opensea-clone/#features)
+[![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/opensea-clone/#features)
 
-**MXSea** is a production-ready, white-label Opensea clone: a complete NFT marketplace with lazy minting, multi-chain, and royalty engine — delivered with **100% source code ownership** in **6 working days**.
+**mxsea** is a production-ready, white-label Opensea clone: a complete NFT marketplace with lazy minting, multi-chain, and royalty engine — delivered with **100% source code ownership** in **6 working days**.
 
 > 🖼️ **See it running before you talk to anyone.** Live collector app, creator dashboard, and admin console — demo credentials are printed on the [solution page](https://miracuves.com/opensea-clone#demo). No sales call required.
 
@@ -71,7 +71,7 @@ flowchart LR
 - ✅ 60 days post-launch support + 12 months of free updates
 - ✅ Documentation & handover
 
-**Pricing:** from **$6,999**, transparent on the [solution page](https://miracuves.com/opensea-clone/#pricing) — no "contact us for quote" games.
+**Pricing:** from **$6,999**, transparent on the [solution page](https://miracuves.com/opensea-clone/#features) — no "contact us for quote" games.
 
 ## 🆚 Why Not Build From Scratch?
 
@@ -80,10 +80,12 @@ Custom NFT marketplaces run $100k–$500k and 4–9 months. A proven white-label
 ## 📚 Resources
 
 - 📖 [Opensea Clone — Full Solution Page](https://miracuves.com/opensea-clone) (features, pricing, demos, FAQ)
-- 💰 [How Much Does an NFT Marketplace Cost in 2026?](https://miracuves.com/opensea-clone#pricing) pricing breakdown & what's included
-- 📝 [Best Opensea Clone Script in 2026](https://miracuves.com/opensea-clone/blog/) features, pricing & launch guide
-- 🧠 [Lazy Minting: Why It Matters for NFT Marketplaces](https://miracuves.com/opensea-clone/blog/) gas savings, EIP standards
-- ✅ [Miracuves Facts & Claims Ledger](https://miracuves.com/opensea-clone/facts/) every claim we make, verified
+- 💰 [How Much Does an NFT Marketplace Cost in 2026?](https://miracuves.com/opensea-clone#features) pricing breakdown & what's included
+- 📝 [Best Opensea Clone Script in 2026](https://miracuves.com/opensea-clone#features) features, pricing & launch guide
+- 🧠 [Lazy Minting: Why It Matters for NFT Marketplaces](https://miracuves.com/opensea-clone#features) gas savings, EIP standards
+- ✅ [Miracuves Facts & Claims Ledger](https://miracuves.com/opensea-clone#faq) every claim we make, verified
+- 💻 [Opensea Clone — Technical Stack](https://miracuves.com/opensea-clone#techstack) languages, databases, infra, payments, hosting
+- 🔄 [Opensea Clone — How It Works / User Flow](https://miracuves.com/opensea-clone#flow) step-by-step product walkthrough
 
 ## 🏢 About Miracuves
 
@@ -95,7 +97,7 @@ Custom NFT marketplaces run $100k–$500k and 4–9 months. A proven white-label
 
 ### ⚠️ Note on This Repository
 
-This repository is a product overview. The full source code is delivered to clients on purchase — see [what’s included](https://miracuves.com/opensea-clone/#included). For a hands-on evaluation, use the live demos above; credentials are public on the solution page.
+This repository is a product overview. The full source code is delivered to clients on purchase — see [what’s included](https://miracuves.com/opensea-clone/#features). For a hands-on evaluation, use the live demos above; credentials are public on the solution page.
 
 *Keywords: opensea clone, opensea clone script, NFT marketplace, white label NFT, multi-chain, lazy minting, Flutter NFT app, Node.js NFT*
 
@@ -106,7 +108,7 @@ This repository is a product overview. The full source code is delivered to clie
 TEMPLATE VARIABLE KEY — auto-generated from Netflix-Clone pattern
 ══════════════════════════════════════════════════
 {APP_NAME}        Opensea Clone
-{MX_NAME}         MXSea
+{MX_NAME}         mxsea
 {CATEGORY}        NFT Marketplace Platform
 {DEMO_WEB}        mxsea.mimeld.com
 {PRICE}           $6,999
